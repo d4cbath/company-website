@@ -1,0 +1,5 @@
+# Local packaging artifacts
+*.zip
+
+# Source media archive folder outside deployed site
+/ImagesAndVideos/
