@@ -1,5 +1,7 @@
 # Local packaging artifacts
 *.zip
 
-# Source media archive folder outside deployed site
+# Keep legacy archive out of commits, but allow deployed assets folder
 /ImagesAndVideos/
+!/imagesandvideos/
+!/imagesandvideos/**
